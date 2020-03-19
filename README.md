@@ -47,3 +47,7 @@ Slot 4: 5 = 5
 While the ball is sliding, encounters 1 number (5)
 
 So that: 4 5 1
+
+## Solutions
+
+I used dynamic programming to from the bottom row to find the maximum or minimum value obtained when I see the item.
