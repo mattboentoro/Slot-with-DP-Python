@@ -18,7 +18,7 @@ The maximum / minimum total travel value of the Ball is guaranteed to be unique.
 
 ## Example Input
 
-6 5
+6 5  
 . . . . .  
 . 10 . . .  
 . . 30 . .  
